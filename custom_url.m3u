@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,HOT1
+http://200.122.255.77:1935/adulto/hot1hd.stream/playlist.m3u8
+#EXTINF:-2,HOT2
+http://200.122.255.77:1935/adulto/hot2hd.stream/playlist.m3u8
